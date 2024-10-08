@@ -1,5 +1,7 @@
 # yeb
 
+[简体中文](README_CN.md) | [English](README.md)
+
 > Golang Web Development Framework
 >
 >> Note: This project is built for learning purposes and is not recommended for use in production environments.
@@ -113,7 +115,7 @@ func FormatAsDate(t time.Time) string {
 }
 ```
 
-## thanks
+## Thanks
 
 - [7天用Go从零实现Web框架Gee教程 | 极客兔兔](https://geektutu.com/post/gee.html)
 
